@@ -1,16 +1,19 @@
-### Hi there 👋
+# Olá, eu sou Pedro Rayandson
 
-<!--
-**pedrorayandson/pedrorayandson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 👨‍💻 Programador de Sistemas para Internet
+- 📱 Experiência em programação mobile
+- 🎓 Formado em Técnico de Informática para Internet pelo IFRN - Campus Caicó
+- 📅 19 anos de idade
 
-Here are some ideas to get you started:
+## Habilidades
+- 💻 Linguagens: Java, Python, HTML, CSS, JavaScript, PHP, XML
+- 📱 Desenvolvimento Mobile: Android SDK (Java e Kotlin)
+- 🌐 Desenvolvimento Web: Laravel, Symfony, Django
+- 🖥️ Servidores: Apache, BIND, Squid
+- 🛢️ Banco de dados: MYSQL, SQLITE, ORACLE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+- 📧 Email: pedrorayandson17@gmail.com
+- 💼 LinkedIn: [Seu perfil no LinkedIn]
+- 📱 WhatsApp: (84) 99678-0093
