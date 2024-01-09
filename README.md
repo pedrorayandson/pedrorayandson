@@ -1,5 +1,3 @@
-# Olá, eu sou Pedro Rayandson
-
 ## Sobre mim
 - 👨‍💻 Programador de Sistemas para Internet
 - 📱 Experiência em programação mobile
