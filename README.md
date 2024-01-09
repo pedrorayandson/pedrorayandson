@@ -13,5 +13,5 @@
 
 ## Contato
 - 📧 Email: pedrorayandson17@gmail.com
-- 💼 LinkedIn: [Seu perfil no LinkedIn]
+- 💼 LinkedIn: [Meu perfil no linkedIn](https://www.linkedin.com/in/pedro-rayandson-azevedo-da-silva-8ba4332a9/)
 - 📱 WhatsApp: (84) 99678-0093
